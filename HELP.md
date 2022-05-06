@@ -11,7 +11,7 @@ Eddie Wettach <ewettach@gmail.com>
 
 ## Requirements:
 1.  Companion
-2.  Daktronics DMP (Tested with DMP 8000 v1.37.0.32, v2.34.0.115, but probably works with others)
+2.  Daktronics DMP (Tested with DMP 8000 v1.37.0.32, v2.34.0.115, 8.88.0.40 but probably works with others)
 
 ## How to:
 1.  Add an instance of Show Control Client to Companion.
